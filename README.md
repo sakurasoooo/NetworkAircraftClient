@@ -112,7 +112,3 @@ Located in the `Assets/Prefabs/` folder (assumption, standard Unity practice):
 * `com.unity.adaptiveperformance`: For performance scaling on mobile devices (though the current target seems to be standalone).
 * Standard 2D feature packages.
 * And other common Unity modules.
-
----
-
-This README should give a good overview of your NetworkAircraftClient project. You can add more specific details as the project evolves, such as build instructions or more in-depth explanations of certain game mechanics.
